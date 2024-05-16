@@ -1,0 +1,43 @@
+body {
+    font-family: Cambria;
+    background-color: #333;
+}
+
+.container {
+    width: 550px;
+    margin: 3rem auto;
+}
+
+.card{
+    display: inline-block;
+    margin: 6px 10px;
+    max-width: 150px;
+    background-color: #000;
+    border-radius: 10px;
+    box-shadow: 1px 1px 2px #111;
+    line-height: 5px;
+}
+
+img {
+    width: 150px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-body {
+    text-align: center;
+    color: #fff;
+    padding: 10px;
+}
+
+h5 {
+    display: inline;
+}
+
+p {
+    font-size: 10px;
+}
+
+.rated {
+    color: #ffb703;
+}
